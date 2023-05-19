@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2023/05/19/%E8%BE%9B%E5%90%89%E8%B5%B0%E5%90%8E%E6%80%8E%E6%A0%B7/</loc>
+    <loc>https://starsfunction.github.io/2023/05/19/%E8%BE%9B%E5%90%89%E8%B5%B0%E5%90%8E%E6%80%8E%E6%A0%B7/</loc>
     
     <lastmod>2023-05-19</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/05/19/hello-world/</loc>
+    <loc>https://starsfunction.github.io/2023/05/19/hello-world/</loc>
     
     <lastmod>2023-05-19</lastmod>
     
@@ -21,7 +21,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://starsfunction.github.io/</loc>
     <lastmod>2023-05-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
